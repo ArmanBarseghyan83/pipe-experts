@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pipe-experts/static/css/main.81c341a0.css",
-    "main.js": "/pipe-experts/static/js/main.3ec88a29.js",
+    "main.css": "/pipe-experts/static/css/main.4bab2e3b.css",
+    "main.js": "/pipe-experts/static/js/main.15601b31.js",
     "static/media/plumber.png": "/pipe-experts/static/media/plumber.bba484deed3e050e51ec.png",
     "static/media/home (2).jpg": "/pipe-experts/static/media/home (2).2641e92963a9139db48b.jpg",
     "static/media/hovoLogo.png": "/pipe-experts/static/media/hovoLogo.e50e1853be7434380772.png",
@@ -14,11 +14,11 @@
     "static/media/food-order.jpg": "/pipe-experts/static/media/food-order.c7fa687e641d455aa8b2.jpg",
     "static/media/blog.jpg": "/pipe-experts/static/media/blog.26af01a9fad10363eecb.jpg",
     "index.html": "/pipe-experts/index.html",
-    "main.81c341a0.css.map": "/pipe-experts/static/css/main.81c341a0.css.map",
-    "main.3ec88a29.js.map": "/pipe-experts/static/js/main.3ec88a29.js.map"
+    "main.4bab2e3b.css.map": "/pipe-experts/static/css/main.4bab2e3b.css.map",
+    "main.15601b31.js.map": "/pipe-experts/static/js/main.15601b31.js.map"
   },
   "entrypoints": [
-    "static/css/main.81c341a0.css",
-    "static/js/main.3ec88a29.js"
+    "static/css/main.4bab2e3b.css",
+    "static/js/main.15601b31.js"
   ]
 }
