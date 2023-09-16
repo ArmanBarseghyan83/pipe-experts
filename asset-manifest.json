@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pipe-experts/static/css/main.716bbb1a.css",
-    "main.js": "/pipe-experts/static/js/main.428634d9.js",
+    "main.js": "/pipe-experts/static/js/main.09a30ff3.js",
     "static/media/plumber.png": "/pipe-experts/static/media/plumber.bba484deed3e050e51ec.png",
     "static/media/home (2).jpg": "/pipe-experts/static/media/home (2).2641e92963a9139db48b.jpg",
     "static/media/hovoLogo.png": "/pipe-experts/static/media/hovoLogo.e50e1853be7434380772.png",
@@ -15,10 +15,10 @@
     "static/media/blog.jpg": "/pipe-experts/static/media/blog.26af01a9fad10363eecb.jpg",
     "index.html": "/pipe-experts/index.html",
     "main.716bbb1a.css.map": "/pipe-experts/static/css/main.716bbb1a.css.map",
-    "main.428634d9.js.map": "/pipe-experts/static/js/main.428634d9.js.map"
+    "main.09a30ff3.js.map": "/pipe-experts/static/js/main.09a30ff3.js.map"
   },
   "entrypoints": [
     "static/css/main.716bbb1a.css",
-    "static/js/main.428634d9.js"
+    "static/js/main.09a30ff3.js"
   ]
 }
