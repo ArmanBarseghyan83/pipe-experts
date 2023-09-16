@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/pipe-experts/static/css/main.716bbb1a.css",
-    "main.js": "/pipe-experts/static/js/main.087b5720.js",
+    "main.js": "/pipe-experts/static/js/main.6549a5cf.js",
     "static/media/plumber.png": "/pipe-experts/static/media/plumber.bba484deed3e050e51ec.png",
-    "static/media/home (2).jpg": "/pipe-experts/static/media/home (2).2641e92963a9139db48b.jpg",
     "static/media/hovoLogo.png": "/pipe-experts/static/media/hovoLogo.e50e1853be7434380772.png",
     "static/media/expense.jpg": "/pipe-experts/static/media/expense.85e1416da2c9110eb4e2.jpg",
     "static/media/email.jpg": "/pipe-experts/static/media/email.0e4d7f2e968e9dcef6d1.jpg",
@@ -13,12 +12,13 @@
     "static/media/home-rentals.jpg": "/pipe-experts/static/media/home-rentals.b1681aa7e3498c9bd051.jpg",
     "static/media/food-order.jpg": "/pipe-experts/static/media/food-order.c7fa687e641d455aa8b2.jpg",
     "static/media/blog.jpg": "/pipe-experts/static/media/blog.26af01a9fad10363eecb.jpg",
+    "static/media/gay-plumbers.jpg": "/pipe-experts/static/media/gay-plumbers.c504a4bffd93a33a04a4.jpg",
     "index.html": "/pipe-experts/index.html",
     "main.716bbb1a.css.map": "/pipe-experts/static/css/main.716bbb1a.css.map",
-    "main.087b5720.js.map": "/pipe-experts/static/js/main.087b5720.js.map"
+    "main.6549a5cf.js.map": "/pipe-experts/static/js/main.6549a5cf.js.map"
   },
   "entrypoints": [
     "static/css/main.716bbb1a.css",
-    "static/js/main.087b5720.js"
+    "static/js/main.6549a5cf.js"
   ]
 }
