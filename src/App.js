@@ -6,10 +6,6 @@ import Specials from "./sections/specials/Specials";
 import Contact from "./sections/contacts/Contact";
 import Services from "./sections/services/Services";
 
-// Installed pacages
-// npm install react-icons --save
-// npm install aos --save, for animating on scroll (check AOS for different effects)
-//
 const App = () => {
 
   return (
