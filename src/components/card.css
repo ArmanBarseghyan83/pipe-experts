@@ -1,0 +1,5 @@
+.card {
+  background: var(--color-white);
+  overflow: hidden;
+  box-shadow: 2px 1px 12px .5px #927983
+}

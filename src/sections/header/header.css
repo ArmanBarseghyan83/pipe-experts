@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Diphylleia&family=Montserrat:wght@100;200;300;400;500;600;700&family=Rajdhani:wght@300&family=Ysabeau+SC&display=swap");
+
+.headerImg {
+  position: relative;
+  height: 100vh;
+  top: 8rem;
+}
+
+.container.header-container {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  right: 2rem;
+  top: 18rem;
+  width: fit-content;
+}
+
+.header-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.header-content p {
+  width: 20rem;
+  color: var(--color-primary);
+  font-size: 1rem;
+  text-align: center;
+}
+
+.header-content h2 {
+  font-family: "Cinzel", serif;
+  font-weight: 400;
+  margin-left: 0;
+}
+
+.header-cta {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+@media screen and (max-width: 1025px) {
+  header {
+    top: 6rem;
+  }
+
+  .header-content p {
+    width: 19rem;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .headerImg {
+    top: 8rem;
+    height: 25%;
+  }
+
+  .container.header-container {
+    position: relative;
+    right: 0;
+    top: 10rem;
+    align-items: center;
+    padding: 2rem 0 8rem 0;
+  }
+
+  .header-content {
+    gap: 1rem;
+  }
+
+  .header-cta {
+    margin-top: 2rem;
+  }
+}
