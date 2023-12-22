@@ -72,6 +72,12 @@ footer {
 footer div {
   color: white;
   display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+footer p {
+  color: rgb(124,204,251);
 }
 
 footer div img {

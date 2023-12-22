@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../assets/hovoLogo.png";
+import Logo from "../../assets/FullLogo.png";
 import "./contact.css";
 import { FaPhoneAlt } from "react-icons/fa";
 
@@ -40,7 +40,8 @@ const Contact = () => {
 
       <footer>
         <div>
-          <img src={Logo} alt="Logo" /> &copy; {currentYear}
+          <img src={Logo} alt="Logo" /> 
+          <p>&copy; {currentYear}</p> 
         </div>
       </footer>
     </section>
