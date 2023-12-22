@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.716bbb1a.css",
-    "main.js": "/static/js/main.88e487b5.js",
+    "main.css": "/static/css/main.e4f12ef5.css",
+    "main.js": "/static/js/main.6b41005c.js",
     "static/media/plumber.png": "/static/media/plumber.bba484deed3e050e51ec.png",
     "static/media/home (2).jpg": "/static/media/home (2).2641e92963a9139db48b.jpg",
     "static/media/hovoLogo.png": "/static/media/hovoLogo.e50e1853be7434380772.png",
@@ -11,14 +11,15 @@
     "static/media/e-commerce.jpg": "/static/media/e-commerce.ee4a1c8118b2daba325b.jpg",
     "static/media/events.jpg": "/static/media/events.295d835cdc82d5313382.jpg",
     "static/media/home-rentals.jpg": "/static/media/home-rentals.b1681aa7e3498c9bd051.jpg",
+    "static/media/FullLogo.png": "/static/media/FullLogo.1fe75ec4cece5d2e1140.png",
     "static/media/food-order.jpg": "/static/media/food-order.c7fa687e641d455aa8b2.jpg",
     "static/media/blog.jpg": "/static/media/blog.26af01a9fad10363eecb.jpg",
     "index.html": "/index.html",
-    "main.716bbb1a.css.map": "/static/css/main.716bbb1a.css.map",
-    "main.88e487b5.js.map": "/static/js/main.88e487b5.js.map"
+    "main.e4f12ef5.css.map": "/static/css/main.e4f12ef5.css.map",
+    "main.6b41005c.js.map": "/static/js/main.6b41005c.js.map"
   },
   "entrypoints": [
-    "static/css/main.716bbb1a.css",
-    "static/js/main.88e487b5.js"
+    "static/css/main.e4f12ef5.css",
+    "static/js/main.6b41005c.js"
   ]
 }
