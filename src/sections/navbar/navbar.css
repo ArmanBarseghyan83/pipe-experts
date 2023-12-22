@@ -9,7 +9,7 @@ nav {
   left: 0;
   z-index: 9;
   transition: var(--transition);
-  box-shadow: 2px 1px 12px 3px #553944
+  border-bottom: 2px solid rgb(124,204,251);
 }
 
 .container.nav-container {
@@ -20,7 +20,8 @@ nav {
 }
 
 .nav-logo {
-  width: 20rem;
+  width: 12rem;
+
 }
 
 .nav-menu {
@@ -52,16 +53,16 @@ nav {
   .nav-menu li {
     font-size: 130%;
   }
-
-  .nav-logo {
-    width: 16rem;
-  }
   
 }
 
 @media screen and (max-width: 830px) {
   .container.nav-container {
     flex-direction: column;
+  }
+
+   .nav-logo {
+    width: 9rem;
   }
 
 }
@@ -76,9 +77,5 @@ nav {
     font-size: 110%;
   }
 
-  .nav-logo {
-    width: 13rem;
-  }
-  
 }
 

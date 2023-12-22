@@ -16,11 +16,11 @@ const Contact = () => {
             </div>
             <a href="tel:+18189387283"> (818) 938-7283</a>
           </div>
-          <a href="mailto:pipeexpertsinc@gmail.com" className="btn">
-            pipeexpertsinc@gmail.com
-          </a>
           <a href="sms:+18189387283" className="btn">
             (818)-938-7283 Message
+          </a>
+          <a href="mailto:pipeexpertsinc@gmail.com" className="btn">
+            pipeexpertsinc@gmail.com
           </a>
         </div>
         <form
